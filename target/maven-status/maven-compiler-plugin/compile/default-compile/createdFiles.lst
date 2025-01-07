@@ -1,0 +1,9 @@
+com\taskapp\taskapp\Controller\TaskController.class
+com\taskapp\taskapp\Models\Task.class
+com\taskapp\taskapp\Util\Exceptions\GlobalExceptionHandler.class
+com\taskapp\taskapp\TaskappApplication.class
+com\taskapp\taskapp\config\SwaggerConfig.class
+com\taskapp\taskapp\Util\Exceptions\ErrorResponse.class
+com\taskapp\taskapp\Repository\TaskRepository.class
+com\taskapp\taskapp\Util\Exceptions\TaskNotFoundException.class
+com\taskapp\taskapp\Services\TaskService.class
